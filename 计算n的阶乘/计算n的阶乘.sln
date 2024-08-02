@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算n的阶乘", "计算n的阶乘\计算n的阶乘.vcxproj", "{77BEEDEF-3780-4E62-9E43-A952F3C6E737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BEEDEF-3780-4E62-9E43-A952F3C6E737}.Debug|x64.ActiveCfg = Debug|x64
+		{77BEEDEF-3780-4E62-9E43-A952F3C6E737}.Debug|x64.Build.0 = Debug|x64
+		{77BEEDEF-3780-4E62-9E43-A952F3C6E737}.Debug|x86.ActiveCfg = Debug|Win32
+		{77BEEDEF-3780-4E62-9E43-A952F3C6E737}.Debug|x86.Build.0 = Debug|Win32
+		{77BEEDEF-3780-4E62-9E43-A952F3C6E737}.Release|x64.ActiveCfg = Release|x64
+		{77BEEDEF-3780-4E62-9E43-A952F3C6E737}.Release|x64.Build.0 = Release|x64
+		{77BEEDEF-3780-4E62-9E43-A952F3C6E737}.Release|x86.ActiveCfg = Release|Win32
+		{77BEEDEF-3780-4E62-9E43-A952F3C6E737}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A199CC9-7B33-43A2-976A-50352C76FE6E}
+	EndGlobalSection
+EndGlobal
